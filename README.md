@@ -4,3 +4,6 @@
 
 <h3>Link to landing page design</h3>
 <a href="https://ziyandadyani.github.io/Munie-Website-Landing-Page/#">Landing Page</a>
+
+Tools and technologies:
+![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
